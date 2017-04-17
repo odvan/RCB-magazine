@@ -1,6 +1,6 @@
 # RCB-magazine
 
-In 2013 created RCB magazine app from scratch. Although it had nothing to do with actual programming, because our company bought Adobe DPS license (a platform for moving periodicals into digital format for App Store and Google Play), I got experience with Apple developer account, how to build and submit app in appstore and google play, how create subscription, how create UI adapted to Ipad and Android tablets.
+In 2013 created RCB magazine app from scratch. Although it had nothing to do with actual programming, our company bought Adobe DPS license (a platform for moving periodicals into digital format for App Store and Google Play), I got experience with Apple developer account, how to build and submit app in App Store and Google Play, how create subscription, how create UI adapted for Ipad and Android tablets.
 
 Since then I interested in app developing.
 
