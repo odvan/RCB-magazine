@@ -5,4 +5,4 @@ In 2013 created RCB magazine app from scratch. Although it had nothing to do wit
 Since then I interested in app developing.
 
 ![ipad_how_to-6](https://cloud.githubusercontent.com/assets/23110283/22863336/458133b4-f14f-11e6-99a4-8784a58cac1d.png)
-![rcb_app_205x282](https://user-images.githubusercontent.com/23110283/27774425-a6ebe09a-5f9a-11e7-8206-ae74c01ffb45.png)
+![rcb_app_205x282](https://user-images.githubusercontent.com/23110283/27774439-fd36bc18-5f9a-11e7-9f44-98c92e3884ee.png)
