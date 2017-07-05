@@ -7,4 +7,5 @@ Since then I interested in app developing.
 ![ipad_how_to-6](https://cloud.githubusercontent.com/assets/23110283/22863336/458133b4-f14f-11e6-99a4-8784a58cac1d.png)
 
 Ad
-![rcb_app_205x282](https://user-images.githubusercontent.com/23110283/27887295-b3c078ee-61e8-11e7-8f8a-9fcd668eba83.png)
+
+![rcb_app_205x282](https://user-images.githubusercontent.com/23110283/27887358-074ddf60-61e9-11e7-9114-97e7deaa8d32.png)
